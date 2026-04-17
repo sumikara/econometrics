@@ -39,7 +39,7 @@ You can mix Python code into your Patsy formulas; when evaluating the
 Linear models, generalized linear models, and robust linear models (OLS) Linear mixed effects models, Analysis of variance (ANOVA) methods, Time series processes and state space models, Generalized method of moments
 scikit-learn (dependent, independet variable OLS modeling in Python wiht scikit-lear)
 scikit-learn is one of the most widely used and trusted general-purpose Python machine learning toolkits.
-
+https://wesmckinney.com/book/data-analysis-examples
 
 ## R
 # statistics/analysis libraries and packages
